@@ -1,0 +1,1 @@
+String loginUrl = "https://zippy-server-1.herokuapp.com/auth/login";
